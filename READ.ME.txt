@@ -1,0 +1,60 @@
+Webpage Test Maker
+By:  Max Seim  mlseim@mmm.com
+
+View the examples included to see how
+the scripts are made.  Click on FILE and
+then OPEN to open the examples.
+
+If you are making a new script:
+
+You can use Notepad (probably the best thing)
+or you can use the Text box.  If you type in
+the script in the text box or make changes to
+a script in the text box, SAVE the file (changes)
+and then Re-OPEN it to make it current.
+
+You will see where the file (resulting HTML) will
+be saved when you view the results in your browser.
+
+Once you put in your email (where the results will
+be sent), it will remember it for next time.
+
+The 'html form' is emailed back using a "free" website
+CGI script that the author (www.thalasson.com) has allowed the public to use.
+You may want to create your own CGI script in your webspace
+(if you know how to do it).
+
+Some important notes on making the script:
+
+When entering possible answers, leave only one space
+between the [r] and the  a)
+example:
+[r] a) This option
+
+Always include either a letter or number for each
+possible answer.
+example
+[r] a) This option
+[r] b) this one
+
+[r] 1) Or a number
+[r] 2) second option
+
+Same thing goes for checkboxes.
+
+These unique letters or numbers for options will be
+important when the person emails the answers.  You will
+see this when you try it out.
+
+[n] Where n=question number
+[r] Where r=radio button
+[c] Where c=check button
+[s] Where s=short answer (40 char , 1 line ... fixed)
+[l] Where l=long answer (40 char, 4 lines displayed ... automatically adds more)
+
+Please send questions and comments to:
+Max Seim
+mlseim@mmm.com
+
+
+

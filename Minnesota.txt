@@ -1,0 +1,51 @@
+[1] What is the capitol of Minnesota?
+[r] a) Minneapolis
+[r] b) St. Paul
+[r] c) Duluth
+[r] d) Mankato
+
+[2] Which one is NOT a Great Lake?
+[r] a) Superior
+[r] b) Erie
+[r] c) Winnipeg
+[r] d) Ontario
+[r] e) Huron
+
+[3] Select the states that border Minnesota (check each that apply).
+[c] a) Nebraska
+[c] b) Wisconsin
+[c] c) Kansas
+[c] d) Iowa
+[c] e) N. Dakota
+[c] f) S. Dakota
+[c] g) Michigan
+
+[4] Which Great Lake is the largest in area?
+[s]
+
+[5] Which city in Minnesota has the largest population?
+[s]
+
+[6] Which is the State Flower of Minnesota?
+[r] a) Marigold
+[r] b) Dandelion
+[r] c) Tulip
+[r] d) Lady Slipper
+
+[7] Which is the State Bird of Minnesota?
+[r] a) Robin
+[r] b) Loon
+[r] c) Wood Duck
+[r] d) Heron
+
+[8] Name as many counties in Minnesota as you can.
+[l]
+
+[9] Which timezone is Minnesota located in?
+[r] a) Eastern
+[r] b) central
+[r] c) midwest
+[r] d) mountain
+[r] e) None of the Above
+
+

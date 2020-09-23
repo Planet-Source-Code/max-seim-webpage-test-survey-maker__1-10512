@@ -1,0 +1,16 @@
+[1] Do you normally vote Democrat or Republican?
+[r] a) Democrat
+[r] b) Republican
+[r] c) Other
+
+[2] What is your age?
+[r] a) 18-25
+[r] b) 26-35
+[r] c) 36-50
+[r] d) 51-100
+
+[3] Do you hate politicians?
+[r] a) YES
+[r] b) NO
+
+
